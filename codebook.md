@@ -2,9 +2,10 @@
 
 This is the code book that accompanies the Tidy Txt Data Set
 
-## From the UCI HAR Dataset.names readme:
+##Data Aquisition:
 
-###source:
+ Please refer to the quoted text from the readme associated with the UCI data set on how the data were aquired and their meanings
+ Source:
 Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2)
 1 - Smartlab - Non-Linear Complex Systems Laboratory
 DITEN - Universit�  degli Studi di Genova, Genoa (I-16145), Italy. 
@@ -38,6 +39,8 @@ The type of activity the subject was performing when the measurements were taken
 - Laying
 
 ## Measurements
+Here is a complete list of the measurements used in the tidy dataset
+
 - "TimeSeriesofBodyAccelerometerMeanX" 
 - "TimeSeriesofBodyAccelerometerMeanY" 
 - "TimeSeriesofBodyAccelerometerMeanZ" 
