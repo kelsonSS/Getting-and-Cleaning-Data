@@ -1,6 +1,6 @@
 #Code Book
 
-This is the code book that accompanies the Tidy Txt Data Set
+This is the code book that accompanies the Tidy Data.txt Set
 
 ##Data Aquisition:
 
